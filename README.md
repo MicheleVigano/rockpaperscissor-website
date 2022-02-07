@@ -1,2 +1,1 @@
-# front-end-hosting
-hosting space for my school projects
+# my first game in JS
